@@ -1,2 +1,2 @@
-github "Alamofire/Alamofire" "feature/xcode12"
+github "brunosylvain/Alamofire"
 github "tristanhimmelman/ObjectMapper" ~> 3.5.1
