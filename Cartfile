@@ -1,2 +1,2 @@
-github "brunosylvain/Alamofire"
+github "brunosylvain/Alamofire" "master"
 github "tristanhimmelman/ObjectMapper" ~> 3.5.1

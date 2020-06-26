@@ -1,2 +1,2 @@
-github "Alamofire/Alamofire" "5.0.0-rc.3"
-github "tristanhimmelman/ObjectMapper" "3.5.1"
+github "brunosylvain/Alamofire" "bdfee2bd184816e6b4608b1e78602ed092cc7d22"
+github "tristanhimmelman/ObjectMapper" "3.5.3"
